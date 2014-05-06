@@ -1,0 +1,27 @@
+SystemName C4
+SystemLabel mp-48
+NumberOfAtoms 4
+NumberOfSpecies 1
+AtomicCoordinatesFormat Ang
+LatticeConstant 1 Ang
+MeshCutoff 125.0 Ry
+WriteCoorXmol yes
+
+ %block ChemicalSpeciesLabel
+1 6 C
+%endblock ChemicalSpeciesLabel
+
+
+ %block LatticeParameters
+2.47 2.47 6.93 90.0 90.0 120.0
+%endblock LatticeParameters
+
+
+ %block AtomicCoordinatesAndAtomicSpecies
+0.0 0.0 1.7325 1
+0.0 0.0 5.1975 1
+-1.23500000226e-08 1.4260551738 1.7325 1
+1.23500001235 0.713027576203 5.1975 1
+%endblock AtomicCoordinatesAndAtomicSpecies
+
+
